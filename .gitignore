@@ -1,0 +1,16 @@
+"" 
+# Node.js
+node_modules/
+.env
+*.env
+
+# Supabase local files
+supabase/.env
+supabase/.temp/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Documentation
+*.docx
